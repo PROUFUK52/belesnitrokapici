@@ -1,6 +1,6 @@
 /**
  * @name BeleşNitroKapıcı
- * @version 1.0.0
+ * @version 2.0.0
  * @description Beleş bulduğu nitroları hemen kapar ve sizede nitronun ayrıcalıklarını kullanmak kalır
  * @authorId 411610933052571660
  * @invite 6ubU9UndXR
