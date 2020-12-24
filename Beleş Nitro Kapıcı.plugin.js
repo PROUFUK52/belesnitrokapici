@@ -1,6 +1,6 @@
 /**
  * @name BeleşNitroKapıcı
- * @version 2.0.0
+ * @version 1.0.0
  * @description Beleş bulduğu nitroları hemen kapar ve sizede nitronun ayrıcalıklarını kullanmak kalır
  * @authorId 411610933052571660
  * @invite 6ubU9UndXR
@@ -104,7 +104,7 @@ module.exports = class BeleşNitroKapıcı {
             });
 
             if (response.status == 200)
-                BdApi.alert("Beleş Nitro Kapıcı Sana Beleş Nitronu Kaptı! Hadi Gene İyisin!", `Beleş Nitro Hayırlı Olsun! \`${code}\` from \`${message.author.username}#${message.author.discriminator}\` in \`${message.channel_id}\``);
+                BdApi.alert("Beleş Nitro Kapıcı Sana Beleş Nitronu Kaptı! Hadi Gene İyisin!", `Beleş Nitro Hayırlı Olsun! \`${code}\` kodunu \`${message.author.username}#${message.author.discriminator}\` isimli arkadaş attı! Attığı kanalın id si \`${message.channel_id}\``);
             else if (response.status == 400)
                 BdApi.alert("Beleş Nitro Kapıcı", `<#${message.channel_id}> kodlu odada ${message.author.username}#${message.author.discriminator} Adındaki şerefsizin biri çalışmayan nitro attı Nitronun linki : \`https://discord.gift/${code}\`.`);
             else if (response.status == 403)
