@@ -1,6 +1,6 @@
 /**
  * @name BeleşNitroKapıcı
- * @version 2.0.0
+ * @version 1.0.0
  * @description Beleş bulduğu nitroları hemen kapar ve sizede nitronun ayrıcalıklarını kullanmak kalır
  * @authorId 411610933052571660
  * @invite 6ubU9UndXR
@@ -19,7 +19,7 @@ module.exports = class BeleşNitroKapıcı {
 
     getDescription() { return "Beleş bulduğu nitroları hemen kapar ve sizede nitronun ayrıcalıklarını kullanmak kalır"; }
 
-    getVersion() { return "2.0.0"; }
+    getVersion() { return "1.0.0"; }
 
     getAuthor() { return "KaptanUfuk"; }
 
