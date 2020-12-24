@@ -8,7 +8,7 @@
  * @patreon https://www.youtube.com/channel/UCdtKE7mB-5vLEJT22chkllA?view_as=subscriber
  * @website https://www.youtube.com/channel/UCdtKE7mB-5vLEJT22chkllA?view_as=subscriber
  * @source https://www.youtube.com/channel/UCdtKE7mB-5vLEJT22chkllA?view_as=subscriber
- * @updateUrl https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/FriendNotifications/FriendNotifications.plu
+ * @updateUrl https://raw.githubusercontent.com/PROUFUK52/belesnitrokapici/main/Beleş%20Nitro%20Kapıcı.plugin.js
  * Copyright © 2020-2021, KaptanUfuk
  * Tüm Hakları Saklıdır ©
  * KaptanUfuk'tan izin alınmadan bu eklentiye değişiklik yapmak tamamen yasaktır!
